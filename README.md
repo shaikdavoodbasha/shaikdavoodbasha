@@ -100,8 +100,4 @@ Here are the tools and technologies I work with:
 *   **Google Python Crash Course** – Google (2022)
 *   **Microsoft Certified: Azure Fundamentals** – Microsoft (2021)
 
----
-
-### 📈 GitHub Analytics
-
 
