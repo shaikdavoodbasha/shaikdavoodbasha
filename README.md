@@ -1,83 +1,69 @@
-# 👋 Hi, I'm [Your Name]
+# Hi, I'm Shaik Davood Basha 👋
 
-🎓 B.Tech CSE Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast
+**Frontend Developer | MERN Stack**
 
----
-
-## 🧑‍💻 About Me
-
-* 🎓 I'm currently pursuing B.Tech in Computer Science Engineering
-* 💡 Passionate about building real-world projects and solving problems
-* 🌱 Currently learning: **[e.g., AI, Full Stack Development, DSA]**
-* 🔍 Interested in: **Software Development, AI, Startups**
-* ⚡ Fun fact: I believe in *execution > ideas*
+I build fast, scalable, and user-focused web applications using modern technologies.
 
 ---
 
-## 🚀 Skills & Technologies
+## 🚀 About
 
-### 💻 Programming Languages
+- 💻 Frontend Developer specializing in React & Next.js  
+- 🌱 Expanding into full-stack architecture (MERN)  
+- 🛠️ Currently building a **Learning Management System**  
+- 🤝 Open to Full-time, Freelance & Collaboration  
 
-* Python 🐍
-* Java ☕
-* C / C++
+---
 
-### 🌐 Web Development
+## 🛠️ Tech Stack
 
-* HTML, CSS, JavaScript
-* React.js (if applicable)
-* Node.js (if applicable)
+**Frontend:** React.js, Next.js, Redux, Tailwind CSS  
+**Backend:** Node.js, Express.js, MongoDB  
+**Languages:** JavaScript, TypeScript, Python  
+**Tools:** Git, Postman, Figma, Clerk, Stripe  
 
-### 🛠 Tools & Technologies
+---
 
-* Git & GitHub
-* VS Code
-* MySQL / MongoDB
+## 💼 Experience
+
+**Frontend Developer Intern** — GetsYoutThere Solutions  
+*Sep 2025 – Nov 2025*  
+- Built document management modules  
+- Integrated AI features  
+- Developed responsive UI  
+
+**Frontend Developer Intern** — Finari Services Pvt Ltd  
+*Feb 2024 – May 2024*  
+- Developed vendor management system  
+- Worked with CI/CD pipelines  
+- Improved UI performance  
 
 ---
 
 ## 📂 Projects
 
-### 🔹 [Project Name 1]
-
-* 🚀 Description: Short explanation of what it does
-* 🛠 Tech Stack: Python / React / etc
-* 🔗 GitHub Link: [Paste Link]
-
-### 🔹 [Project Name 2]
-
-* 🚀 Description
-* 🛠 Tech Stack
-* 🔗 GitHub Link
+- **LMS Platform** — MERN, Clerk, Stripe  
+- **Crypto Dashboard** — Next.js, API Integration  
+- **Ecommerce Platform** — Next.js, Stripe  
+- **Clothing Store UI** — React, Tailwind  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaikdavoodbasha&show_icons=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikdavoodbasha&layout=compact&hide_border=true" width="48%"/>
+</p>
 
 ---
 
-## 🔥 Streak Stats
+## 📫 Contact
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=radical)
-
----
-
-## 📫 Connect With Me
-
-* 📧 Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/yourprofile
-* 🌐 Portfolio: (if you have)
+- Email: shaik.davoodbasha2@gmail.com  
+- LinkedIn: https://linkedin.com/in/shaikdavood  
+- Portfolio: https://davoodportfolio.vercel.app  
 
 ---
 
-## 🎯 Goals
-
-* 🚀 Build impactful projects
-* 💼 Get into a top tech company / Start my own startup
-* 📚 Keep learning and growing every day
-
----
-
-⭐️ *"Dream big. Start small. Act now."*
+⭐ *Focused on building real-world, impactful products.*
