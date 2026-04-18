@@ -1,6 +1,6 @@
 # Hi, I'm Shaik Davood Basha 👋
 
-**AI-FullStack Engineer | MERN Stack**
+**AI-FullStack Engineer**
 
 I build fast, scalable, and user-focused web applications using modern technologies.
 
