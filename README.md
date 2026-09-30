@@ -35,8 +35,6 @@ I build fast, scalable, and user-focused web applications using modern technolog
 **Frontend Developer Intern** — Finari Services Pvt Ltd  
 *Feb 2024 – May 2024*  
 - Developed vendor management system  
-- Worked with CI/CD pipelines  
-- Improved UI performance  
 
 ---
 
