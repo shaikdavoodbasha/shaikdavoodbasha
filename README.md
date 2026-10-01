@@ -2,7 +2,7 @@
 
 **AI-FullStack Engineer**
 
-I build fast, scalable, and user-focused web applications using modern technologies.
+I build fast, scalable, 
 
 ---
 
