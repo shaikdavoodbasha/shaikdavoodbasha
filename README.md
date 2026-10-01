@@ -29,8 +29,6 @@ I build fast, scalable,
 **Frontend Developer Intern** — GetsYoutThere Solutions  
 *Sep 2025 – Nov 2025*  
 - Built document management modules  
-- Integrated AI features  
-- Developed responsive UI  
 
 **Frontend Developer Intern** — Finari Services Pvt Ltd  
 *Feb 2024 – May 2024*  
