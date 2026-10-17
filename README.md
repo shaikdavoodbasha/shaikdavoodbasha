@@ -1,4 +1,4 @@
 Hu# Hi, I'm Shaik Davood Basha 👋
 
-**AI-FullStack Engineer**gsygegd
+**AI-FullStack Engineer**
 
