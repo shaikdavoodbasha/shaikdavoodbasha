@@ -1,4 +1,4 @@
  Hi, I'm Shaik Davood Basha 👋
 
-**AI-FullStack Engineer**Hii davood bhai
+**AI-FullStack Engineer**Hii
 
